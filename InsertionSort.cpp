@@ -1,6 +1,6 @@
 /**--------------------------------------
     Author: Nikhil Hegde
-    Code  : C++ code for selection Sort
+    Code  : C++ code for insertion Sort
 ----------------------------------------*/
 #include<iostream>
 using namespace std;
